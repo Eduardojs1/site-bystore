@@ -4,7 +4,7 @@ const stats = [
   {
     icon: <Gamepad2 size={24} />,
     value: '2K',
-    label: 'Membros ao total em nosso discord'
+    label: 'Membros ao total em nosso discord.'
   },
   {
     icon: <Users size={24} />,

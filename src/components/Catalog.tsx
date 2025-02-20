@@ -6,7 +6,7 @@ import {useState} from "react";
 const catalogProducts = [
   {
     id: 1,
-    name: "Grephic By Store-3",
+    name: "Graphic By Store-3",
     description: "A melhor e mais otimizada configuração gráfica para o seu FiveM/GTA5.",
     longDescription:
         "Sendo criado e configurado para abranjer o gosto de cada um. Otimizado, regulado e prático!",
