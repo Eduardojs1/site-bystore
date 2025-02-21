@@ -120,7 +120,7 @@ const influencers = [
     role: 'Content Creator - Stremer',
     image: 'https://i.ibb.co/MD2GVqjG/Captura-de-tela-2024-12-04-015618.jpg',
     youtube: '#',
-    instagram: 'https://www.instagram.com/caetanozk_/',
+    instagram: 'https://www.instagram.com/jenny_yuno/',
   },
   {
     id: 17,
@@ -129,14 +129,6 @@ const influencers = [
     image: 'https://i.ibb.co/7bhYpMy/22.png',
     youtube: '#',
     instagram: 'https://www.instagram.com/lazzaro.png/',
-  },
-  {
-    id: 18,
-    name: 'MAYLA',
-    role: 'Content Creator - Influencer',
-    image: 'https://i.ibb.co/9yb4ZnC/23.png',
-    youtube: '#',
-    instagram: 'https://www.instagram.com/maylao.rp/',
   },
   {
     id: 19,
